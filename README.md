@@ -1,4 +1,4 @@
-# flutter_gemini_practise
+# flutter_gemini
 
 A new Flutter project.
 
